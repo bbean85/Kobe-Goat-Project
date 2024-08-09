@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kobe Bryant Tribute</title>
+  <style>
+    body {
+      text-align: center; 
+      background-color: purple; 
+      color: gold; 
+    }
+    img {
+      display: block;    
+      margin: 0 auto;    
+    }
+  </style>
+</head>
+<body>
+  <h1>Kobe "Mamba" Bryant</h1>
+  <h3>The "GOAT"</h3>
+  <img src="Kobe Pics/Kobe .jpg" width="30%" alt="Kobe Bryant">
+
+  
+  <p>Kobe Bean Bryant was born on August 23, 1978, in Philadelphia, Pennsylvania. Standing at 6 feet 6 inches tall, Bryant was named after a type of steak. The beef is from a species of cattle, Wagyu, raised in the Kobe region of Japan. Bryant entered the NBA straight out of high school and was the youngest player in NBA history at that time. He played his entire professional career with the Los Angeles Lakers. Bryant won two Olympic gold medals for men's basketball and was fourth on the NBA list of all-time scoring, even beating out Michael Jordan. He also won 5 NBA championships. Bryant was an 18-time NBA All-Star, 15-time All-NBA Team member, and 12-time NBA All-Defensive Team member. He was also named NBA Finals MVP twice. In 2006, he scored 81 points in a single game against the Toronto Raptors, the second-highest single-game scoring performance in NBA history, behind Wilt Chamberlain's 100-point game.</p>
+  
+  <img src="Kobe Pics/Kobe and Jordan.jpg" alt="Kobe Bryant and Michael Jordan">
+  
+  <h2>Couple of Kobe Quotes:</h2>
+  <p>"The important thing is that your teammates have to know you're pulling for them and you really want them to be successful."</p>
+  <p>"If you're afraid to fail, then you're probably going to fail."</p>
+  <p>"These young guys are playing checkers. I'm out there playing chess."</p>
+  <p>"Winning takes precedence over all. There's no gray area. No almost."</p>
+
+  <img src="Kobe Pics/Kobe Family.jpg" alt="Kobe Bryant with his family">
+  
+  <h2>Learn More About Kobe Bryant</h2>
+  <p>For more information, visit <a href="https://www.nba.com/news/second-statue-kobe-bryant-los-angeles-lakers" target="_blank">this NBA News page</a>.</p>
+  <p>For more information, visit <a href="https://en.wikipedia.org/wiki/Kobe_Bryant" target="_blank">Kobe Bryant's Wikipedia page</a>.</p>
+</body>
+</html>
